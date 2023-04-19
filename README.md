@@ -1,3 +1,3 @@
 # Drone-Navigation-Using-Reinforcement-Learning-
 
-# <image src = "https://user-images.githubusercontent.com/82742016/232783417-663948de-3a65-4e2a-8c4b-10677762638d.mov">
+<image src = https://user-images.githubusercontent.com/82742016/232965223-85365672-e855-46e5-9a7a-bd4e30684637.mov>
